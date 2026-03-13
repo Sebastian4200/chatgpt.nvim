@@ -1,7 +1,7 @@
 local M = {}
 
 M.dark = {
-  bg = "#0D1117",  -- Fondo oscuro
+  bg = "#101011",  -- Fondo oscuro
   bg_alt = "#161B22",  -- Fondo alternativo
   fg = "#E6EDF3",  -- Texto
   comment = "#6E7681",  -- Comentarios
